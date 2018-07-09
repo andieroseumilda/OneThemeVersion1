@@ -24,7 +24,7 @@ public class oneThemeVersion extends baseUtil {
     @When("^i input my user credentials$")
     public void i_input_my_user_credentials(){
         login.getUsername("andielyne.umilda@directwithhotels.com");
-        login.getPassword("andierose");
+        login.getPassword("andierose ");
         login.clickLoginButton();
     }
 
