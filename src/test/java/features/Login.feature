@@ -5,4 +5,4 @@
      When i input my user credentials
      Then i should see the home page
 
-     Scenario: Selecting theme on the previous app
+#     Scenario: Selecting theme on the previous app
